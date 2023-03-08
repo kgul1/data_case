@@ -67,33 +67,33 @@ int main() {
     }
     switch (nr_dnia_urodzenia) {
         case 1:
-            cout << "\n poniadzialek"<<endl;
+            cout << "\n poniadzialek: ";
             parzyste(nr_dnia_urodzenia);
             break;
         case 2:
 
-            cout << "\n wtorek"<<endl;
+            cout << "\n wtorek: ";
             parzyste(nr_dnia_urodzenia);
 
             break;
         case 3:
-            cout << "\n sroda"<<endl;
+            cout << "\n sroda: ";
             parzyste(nr_dnia_urodzenia);
             break;
         case 4:
-            cout << "\n czwartek"<<endl;
+            cout << "\n czwartek: ";
             parzyste(nr_dnia_urodzenia);
             break;
         case 5:
-            cout << "\n piatek"<<endl;
+            cout << "\n piatek: ";
             parzyste(nr_dnia_urodzenia);
             break;
         case 6:
-            cout << "\nsobota"<<endl;
+            cout << "\nsobota: "<<;
             parzyste(nr_dnia_urodzenia);
             break;
         case 7:
-            cout << "\nniedziela"<<endl;
+            cout << "\nniedziela: ";
             parzyste(nr_dnia_urodzenia);
             break;
         default:
