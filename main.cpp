@@ -89,7 +89,7 @@ int main() {
             parzyste(nr_dnia_urodzenia);
             break;
         case 6:
-            cout << "\nsobota: "<<;
+            cout << "\nsobota: ";
             parzyste(nr_dnia_urodzenia);
             break;
         case 7:
